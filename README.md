@@ -1,2 +1,4 @@
-# hello-world
-This repository is for practicing the Github Flow
+# About Me
+Hi, I am Paul.
+I want to learn coding.
+Current knowledge = 0%
